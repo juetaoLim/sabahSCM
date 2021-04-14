@@ -2,9 +2,9 @@
 Contributors: Jue Tao Lim<sup>1,#</sup>, Kenwin Maung<sup>2,#</sup>, Sok Teng Tan<sup>1</sup>, Suan Ee Ong<sup>1,3</sup>, Jane Mingjie Lim<sup>1,^</sup>, Joel Ruihan Koo<sup>1</sup>, Haoyang Sun<sup>1</sup>, Minah Park<sup>1</sup>, Ken Wei Tan<sup>1</sup>, Joanne Yoong<sup>3,4</sup>, Alex R. Cook<sup>1,#</sup>, Borame Sue Lee Dickens<sup>1</sup>
 
 ## Affliations
-<sup>1</sup>Saw Swee Hock School of Public Health, National University of Singapore, SG
-<sup>2</sup>Department of Economics, University of Rochester, Rochester, NY, USA
-<sup>3</sup>Research for Impact, Singapore, SG
+<sup>1</sup>Saw Swee Hock School of Public Health, National University of Singapore, SG<br/>
+<sup>2</sup>Department of Economics, University of Rochester, Rochester, NY, USA<br/>
+<sup>3</sup>Research for Impact, Singapore, SG<br/>
 <sup>4</sup>Center for Economic and Social Research, University of Southern California
 
 ## Motivation and Objectives:
