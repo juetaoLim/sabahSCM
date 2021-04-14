@@ -1,0 +1,1 @@
+use out.xlsx, same spatial resolution as covariate file for city level
