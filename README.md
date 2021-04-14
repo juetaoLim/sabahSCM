@@ -1,6 +1,11 @@
-# sabahSCM
-Estimating direct and spill-over impacts of political elections on COVID-19 transmission using synthetic control methods
-Contributors: Jue Tao Lim<sup>1,#</sup>, Kenwin Maung2,#, Sok Teng Tan1, Suan Ee Ong1,3, Jane Mingjie Lim1,^, Joel Ruihan Koo1, Haoyang Sun1, Minah Park1, Ken Wei Tan1, Joanne Yoong3,4, Alex R. Cook1,#, Borame Sue Lee Dickens1
+# Estimating direct and spill-over impacts of political elections on COVID-19 transmission using synthetic control methods
+Contributors: Jue Tao Lim<sup>1,#</sup>, Kenwin Maung<sup>2,#</sup>, Sok Teng Tan<sup>1</sup>, Suan Ee Ong<sup>1,3</sup>, Jane Mingjie Lim<sup>1,^</sup>, Joel Ruihan Koo<sup>1</sup>, Haoyang Sun<sup>1</sup>, Minah Park<sup>1</sup>, Ken Wei Tan<sup>1</sup>, Joanne Yoong<sup>3,4</sup>, Alex R. Cook<sup>1,#</sup>, Borame Sue Lee Dickens<sup>1</sup>
+
+## Affliations
+<sup>1</sup>Saw Swee Hock School of Public Health, National University of Singapore, SG
+<sup>2</sup>Department of Economics, University of Rochester, Rochester, NY, USA
+<sup>3</sup>Research for Impact, Singapore, SG
+<sup>4</sup>Center for Economic and Social Research, University of Southern California
 
 ## Motivation and Objectives:
 Mass gathering events have been identified as high-risk environments for community transmission of coronavirus disease 2019 (COVID-19). Empirical estimates of their direct and spill-over effects however remain challenging to identify. In this study, we propose the use of a novel synthetic control framework to obtain causal estimates for direct and spill-over impacts of these events. The Sabah state elections in Malaysia were used as an example for our proposed methodology and we investigate the event’s spatial and temporal impacts on COVID-19 transmission.  Results indicate an estimated (i) 70.0% of COVID-19 case counts within Sabah post-state election were attributable to the election’s direct effect; (ii) 64.4% of COVID-19 cases outside Sabah state post-state election were attributable to the election’s spill-over effects. Sensitivity analysis was further conducted by examining epidemiological pre-trends, surveillance efforts, varying synthetic control matching characteristics and spill-over specifications. We demonstrate that our estimates are not due to pre-existing epidemiological trends, surveillance efforts, and/or preventive policies. These estimates highlight the potential of mass gatherings in one region to spill-over into an outbreak of national scale. Relaxations of mass gathering restrictions must therefore be carefully considered, even in the context of low community transmission and enforcement of safe distancing guidelines.
